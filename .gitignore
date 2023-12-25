@@ -1,0 +1,82 @@
+# Flutter/Dart specific
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.idea/
+.packages
+.pub/
+build/
+ios/Flutter/App.framework/
+ios/Flutter/Flutter.framework/
+macos/Flutter/Flutter.podspec
+webdev/
+
+# Xcode
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcworkspace/
+xcuserdata/
+*.xcuserdatad/
+DerivedData/
+*.hmap
+*.ipa
+*.xcuserstate
+
+# Android
+android/
+android/.gradle
+android/app/build/
+android/build/
+android/gradle/
+android/gradlew
+android/gradlew.bat
+android/local.properties
+
+# IntelliJ
+*.iml
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# Flutter package dependencies
+pubspec.lock
+.pub/
+/packages/
+
+# Dart
+.dart_tool/
+.pub-cache/
+.dart_pub/
+
+# iOS
+ios/
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.xcworkspace/
+
+# macOS
+macos/Pods/
+macos/Flutter/Flutter.xcworkspace/
+
+# Windows
+windows/Flutter/ephemeral/.plugin_symlinks/
+windows/Flutter/ephemeral/.plugin_registry/
+windows/
+
+# Web
+web/
+
+# Build artifacts
+*.app
+*.app.dSYM/
+*.build/
+
+# Dart-specific
+.dart_tool/
+.pub/
+
+# Other
+**.DS_Store
+Thumbs.db
